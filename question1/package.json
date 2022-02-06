@@ -1,0 +1,15 @@
+{
+  "name": "question1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "start": "nodemon sum.js",
+    "test": "jest"
+  },
+  "author": "Nattaporn Chokmeethap",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
